@@ -1,0 +1,4 @@
+record_id,correction_id,content_id,revision,published_at,scope_ref,status
+corrections-01,C-81,N-6,1,2026-04-10T09:00:00Z,CLAIM-2,published
+corrections-02,C-82,N-6,2,2026-04-11T12:00:00Z,CLAIM-2,amended
+corrections-03,C-83,N-7,1,2026-04-12T15:00:00Z,CLAIM-9,withdrawn

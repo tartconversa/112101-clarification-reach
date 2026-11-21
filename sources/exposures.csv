@@ -1,0 +1,4 @@
+record_id,exposure_id,content_id,channel_id,started_at,ended_at,cohort_ref,estimated_views
+exposures-01,E-91,N-6,home,2026-04-09T08:00:00Z,2026-04-10T09:20:00Z,G-1,410
+exposures-02,E-92,N-6,search,2026-04-09T08:00:00Z,2026-04-10T10:05:00Z,G-2,190
+exposures-03,E-93,N-7,home,2026-04-11T13:00:00Z,2026-04-12T15:00:00Z,G-3,75

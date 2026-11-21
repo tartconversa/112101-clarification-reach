@@ -1,0 +1,4 @@
+record_id,receipt_id,correction_id,channel_id,received_at,receipt_state,cohort_ref
+channel_receipts-01,R-51,C-81,home,2026-04-10T09:20:00Z,confirmed,G-1
+channel_receipts-02,R-52,C-81,search,2026-04-10T10:05:00Z,partial,G-2
+channel_receipts-03,R-53,C-82,home,2026-04-12T08:00:00Z,confirmed,G-1
