@@ -1,0 +1,2 @@
+[console_scripts]
+clarification-facts = clarification_facts.cli:main

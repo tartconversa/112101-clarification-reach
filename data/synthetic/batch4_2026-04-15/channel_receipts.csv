@@ -1,0 +1,2 @@
+record_id,receipt_id,correction_id,channel_id,received_at,receipt_state,cohort_ref,ingested_at
+syn-rc-10,RR-008,CR-200,home,2026-04-12T15:20:00Z,confirmed,G-H2,2026-04-15T12:00:00Z

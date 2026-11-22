@@ -1,0 +1,4 @@
+record_id,cohort_ref_a,cohort_ref_b,channel_a,channel_b,overlap_users,ingested_at
+syn-ov-01,G-H1,G-S1,home,search,3,2026-04-10T12:00:00Z
+syn-ov-02,G-H1,G-F1,home,feed,1,2026-04-10T12:00:00Z
+syn-ov-03,G-H2,G-P1,home,push,1,2026-04-10T12:00:00Z

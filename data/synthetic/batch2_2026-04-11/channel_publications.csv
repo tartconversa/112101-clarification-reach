@@ -1,0 +1,4 @@
+record_id,correction_id,channel_id,published_at,ingested_at
+syn-pub-03,CR-101,home,2026-04-11T12:00:00Z,2026-04-11T12:00:00Z
+syn-pub-04,CR-101,search,2026-04-11T12:00:00Z,2026-04-11T12:00:00Z
+syn-pub-05,CR-101,feed,2026-04-11T12:00:00Z,2026-04-11T12:00:00Z

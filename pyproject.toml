@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clarification-facts"
+version = "1.0.0"
+description = "公开更正传播覆盖数据仓库：更正版本、渠道回执与曝光的双时间轴可重算模型"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Proprietary" }
+dependencies = []
+
+[project.scripts]
+clarification-facts = "clarification_facts.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+clarification_facts = ["schema.sql"]

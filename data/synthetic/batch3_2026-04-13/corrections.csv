@@ -1,0 +1,4 @@
+record_id,correction_id,content_id,revision,predecessor_id,scope_ref,status,confirmed_at,published_at,ingested_at
+syn-corr-03,CR-102,N-100,3,CR-101,CLAIM-42,withdrawn,2026-04-13T09:00:00Z,2026-04-13T10:00:00Z,2026-04-13T12:00:00Z
+syn-corr-04,CR-200,N-101,1,,CLAIM-88,published,2026-04-12T14:00:00Z,2026-04-12T15:00:00Z,2026-04-13T12:00:00Z
+syn-corr-05,CR-300,N-102,1,,CLAIM-99,published,2026-04-13T08:00:00Z,2026-04-13T09:00:00Z,2026-04-13T12:00:00Z

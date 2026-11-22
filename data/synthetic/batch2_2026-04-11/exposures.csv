@@ -1,0 +1,2 @@
+record_id,exposure_id,content_id,channel_id,started_at,ended_at,cohort_ref,estimated_views,ingested_at
+syn-exp-04,EE-304,N-100,home,2026-04-11T12:20:00Z,2026-04-12T00:00:00Z,G-H1,231,2026-04-11T12:00:00Z

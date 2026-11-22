@@ -1,0 +1,2 @@
+record_id,correction_id,content_id,revision,predecessor_id,scope_ref,status,confirmed_at,published_at,ingested_at
+syn-corr-01,CR-100,N-100,1,,CLAIM-42,partial,2026-04-10T08:30:00Z,2026-04-10T09:00:00Z,2026-04-10T12:00:00Z
